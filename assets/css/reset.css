@@ -59,11 +59,26 @@ p:empty{
 	display: flex;
 }
 
+.flex_wrap{
+	flex-wrap: wrap;
+}
+
+.direction_column{
+	flex-direction: column;
+}
+
 .justify_between{
 	justify-content: space-between;
 }
 
+.justify_end{
+	justify-content: flex-end;
+}
 
+
+.align_center{
+	align-items: center;
+}
 
 
 
