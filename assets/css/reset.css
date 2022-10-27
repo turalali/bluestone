@@ -44,4 +44,45 @@ p:empty{
 	display: none;
 }
 
+.center{
+	position: relative;
+	margin: 0 auto;
+	float: none;
+}
+
+.full_w{
+	width: 100%;
+	float: left;
+}
+
+.flex{
+	display: flex;
+}
+
+.justify_between{
+	justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
